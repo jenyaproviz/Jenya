@@ -1,0 +1,25 @@
+.dark {
+  background-color: #343a40;
+  color: #fff;
+}
+.dark .nav-item {
+  color: #fff;
+}
+.light {
+  background-color: #dee2e6;
+  color: grey;
+}
+.light .lightHeader {
+  background-color: #ced4da;
+}
+.dark .darkHeader {
+  background-color: #343a40;
+  color: #fff;
+}
+.dark input {
+  background-color: #343a40;
+  color: #fff;
+}
+.dark ::placeholder {
+  color: white;
+}

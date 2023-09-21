@@ -1,0 +1,13 @@
+npm i mdb-react-ui-kit
+npm i react-router-dom
+npm i react-bootstrap
+npm i joi-browser
+npm i @mui/material
+npm install @emotion/react
+npm install @emotion/styled
+npm i mdbreact
+npm install jwt-decode
+npm install axios
+
+
+npm i react-toastify
